@@ -1,9 +1,13 @@
 # Fringe81インターン2019サマー Web React事前課題
 
+## Requirements
+
+[`create-react-app`](https://github.com/facebook/create-react-app)でプロジェクトを構築したため、それと同様なRequirementsが必要となります。使用したReactのバージョンは16.8.6です。
+
 ## 起動のための手順
 
 起動の手順は以下となります。
-- `npm install`というコマンドをプロジェクトのルートディレクトリで実行し、必要なライブラリーをnode_modulesというフォルダーにインストールします。
+- `npm install`というコマンドをプロジェクトのルートディレクトリで実行することで、必要なライブラリーをnode_modulesというフォルダーにインストールします。
 - その後、ルートディレクトリのままで`npm start`を実行し、アプリを起動させます。
 - [http://localhost:3000](http://localhost:3000) を開くと実行しているアプリがブラウザに表示されます。
 
