@@ -1,0 +1,49 @@
+.post-container {
+  padding: 25px;
+  box-sizing: border-box;
+  border-bottom: 1px solid #BCC6CC;
+}
+
+.post-images img {
+  width: 50px;
+  height: 50px;
+}
+
+.image-arrow {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.image-clap {
+  width: 20px;
+}
+
+.timestamp {
+  float: right;
+}
+
+.post-text {
+  white-space: pre-line;
+}
+
+.overlay {
+  position: fixed;
+  background-color: azure;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+.overlay ul {
+  padding: 0px;
+  padding-top: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  list-style: none;
+}
+
+.overlay p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #999;
+}
